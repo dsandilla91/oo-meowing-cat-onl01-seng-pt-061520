@@ -12,4 +12,3 @@ maru.name
  
 maru.meow
 end
-end 
